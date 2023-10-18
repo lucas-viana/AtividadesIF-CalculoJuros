@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\AulaIF\InterestCalculate\InterestCalculate\bin\Debug\InterestCalculate.exe.config
+C:\Users\lucas\source\repos\AulaIF\InterestCalculate\InterestCalculate\bin\Debug\InterestCalculate.exe
+C:\Users\lucas\source\repos\AulaIF\InterestCalculate\InterestCalculate\bin\Debug\InterestCalculate.pdb
+C:\Users\lucas\source\repos\AulaIF\InterestCalculate\InterestCalculate\obj\Debug\InterestCalculate.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\AulaIF\InterestCalculate\InterestCalculate\obj\Debug\InterestCalculate.Form1.resources
+C:\Users\lucas\source\repos\AulaIF\InterestCalculate\InterestCalculate\obj\Debug\InterestCalculate.Properties.Resources.resources
+C:\Users\lucas\source\repos\AulaIF\InterestCalculate\InterestCalculate\obj\Debug\InterestCalculate.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\AulaIF\InterestCalculate\InterestCalculate\obj\Debug\InterestCalculate.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\AulaIF\InterestCalculate\InterestCalculate\obj\Debug\InterestCalculate.exe
+C:\Users\lucas\source\repos\AulaIF\InterestCalculate\InterestCalculate\obj\Debug\InterestCalculate.pdb
